@@ -1,0 +1,10 @@
+c:\DatabaseProjectlibrary3\bin\Debug\DatabaseProjectlibrary.dacpac
+c:\DatabaseProjectlibrary3\bin\Debug\DatabaseProjectlibrary.dll
+c:\DatabaseProjectlibrary3\bin\Debug\DatabaseProjectlibrary.pdb
+c:\DatabaseProjectlibrary3\obj\Debug\DatabaseProjectlibrary.sqlproj.AssemblyReference.cache
+c:\DatabaseProjectlibrary3\obj\Debug\Model.xml
+c:\DatabaseProjectlibrary3\obj\Debug\refactor.xml
+c:\DatabaseProjectlibrary3\obj\Debug\postdeploy.sql
+c:\DatabaseProjectlibrary3\obj\Debug\predeploy.sql
+c:\DatabaseProjectlibrary3\obj\Debug\DatabaseProjectlibrary.dll
+c:\DatabaseProjectlibrary3\obj\Debug\DatabaseProjectlibrary.pdb

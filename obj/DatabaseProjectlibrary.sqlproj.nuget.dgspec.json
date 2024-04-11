@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\DatabaseProjectlibrary3\\DatabaseProjectlibrary.sqlproj": {}
+  },
+  "projects": {
+    "c:\\DatabaseProjectlibrary3\\DatabaseProjectlibrary.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\DatabaseProjectlibrary3\\DatabaseProjectlibrary.sqlproj",
+        "projectName": "DatabaseProjectlibrary",
+        "projectPath": "c:\\DatabaseProjectlibrary3\\DatabaseProjectlibrary.sqlproj",
+        "packagesPath": "C:\\Users\\kostoman\\.nuget\\packages\\",
+        "outputPath": "c:\\DatabaseProjectlibrary3\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\kostoman\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU5128"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
